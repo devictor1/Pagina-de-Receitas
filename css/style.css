@@ -1,0 +1,41 @@
+/* RESET CSS */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+header{
+    background-color: aquamarine;
+    color: black;
+    margin: 0;
+    padding: 10px 0;
+}
+
+/* BODY */
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.preparo, .ingredientes{
+    padding: 20px;
+    text-align: left;
+    margin: 0 auto;
+    width: 70%;
+}
+ul, li{
+    margin: 15px 0;
+}
+
+/* FOOTER */
+footer{
+    display: absolute;
+    background-color: brown;
+    color: white;
+    padding: 5px 0;
+    bottom: 0;
+    width: 100%;
+}
